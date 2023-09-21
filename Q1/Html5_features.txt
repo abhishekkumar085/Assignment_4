@@ -1,0 +1,7 @@
+Q1.List out the features of HTML5?
+Ans: Here several features of HTML5
+1.Semantic Element like <header>,<aside>,<nav>,<article>,<selection>,<footer> 
+2.Multimedia Support <audio>,<video>
+3.Canvas,
+4.SVG Support ,
+5.Improved Accessibility

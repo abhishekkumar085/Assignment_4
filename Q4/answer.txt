@@ -1,0 +1,11 @@
+3 Ways to helps us improving accessibility in html:-
+
+1.Use Semantic tags:
+Use semantic HTML elements such as <header>, <nav>, <main>, <article>, <section>, and <footer> to provide a clear and meaningful structure to your web content. These elements convey the purpose and hierarchy of different sections on your webpage, making it easier for screen readers and other assistive technologies to understand and navigate the content.
+
+2.Provide Descriptive Alt Text for Images:
+
+Add descriptive alternative text (alt text) to all images using the alt attribute in the <img> element. Alt text should convey the content and function of the image to users who cannot see it, such as those using screen readers. Avoid leaving alt text empty or using generic phrases like "image" or "photo.".
+
+3.Use colors carefully:
+Colors can help your users easily distinguish different sets of information. However, color blindness and other disabilities can make it difficult for users to find information, call-to-action buttons, or other aspects when developers fail to maintain a proper contrast of colors.

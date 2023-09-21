@@ -1,0 +1,23 @@
+Ans:Accessibility is the practice of making your websites usable by as many people as possible. We traditionally think of this as being about people with disabilities, but the practice of making sites accessible also benefits other groups such as those using mobile devices, or those with slow network connections.
+
+Why its essential to create accessible websites:
+Research reveals almost 20% of Americans live with a disability. This fact further highlights the reasons for having an accessible website for people with disabilities.
+Rarely do businesses purposefully make their website inaccessible to those with disabilities. In reality, many people wish to create an accessible website but first want to perform their homework regarding the costs and materials required for such a venture.
+
+
+
+- some points related Accessibility:-
+
+# Ensuring content accessibility through keyboards alone.
+# Giving ALT Text for images.
+# Create a robust outline of your content.
+# Giving unique names to links.
+# Using exciting color schemes and combinations.
+
+- benefits of different user groups
+# People with Visual Impairments.
+# People with Hearing Impairments
+# People with Motor Impairments
+# Mobile Device Users
+# People with Cognitive Disabilities
+# Wearable users
